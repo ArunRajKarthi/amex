@@ -1,0 +1,4 @@
+0 0 1 1 2025 echo "Happy New Year 2025! - One-time command"
+*/1 echo "Recurring every minute - Current time: $(date)"
+*/2 echo "Amex was founded in 1850 - Every 2 minutes"
+52 19 5 8 2025 echo "we done it"
